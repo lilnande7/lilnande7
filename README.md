@@ -10,7 +10,9 @@ Here's something about me :
 - 📫 Reach me at: [fernandaz3325@gmail.com]
 
 ### 📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=lilnande7&show_icons=true&theme=tokyonight
+![Lilnande's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lilnande7&show_icons=true&theme=tokyonight)
+
 
 ### 🌐 Connect with Me
 [![Instagram](https://img.shields.io/badge/-Instagram-333333?style=flat&logo=instagram)](https://www.instagram.com/f.adnan07/)
+![Discord](https://img.shields.io/discord/1130836535328133133)
