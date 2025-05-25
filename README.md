@@ -15,4 +15,5 @@ Here's something about me :
 
 ### 🌐 Connect with Me
 [![Instagram](https://img.shields.io/badge/-Instagram-333333?style=flat&logo=instagram)](https://www.instagram.com/f.adnan07/)
-![Discord](https://img.shields.io/discord/1130836535328133133)](https://discord.gg/8FHGGkgunk)
+[![Discord](https://img.shields.io/discord/1130836535328133133?label=Discord&logo=discord&style=flat&color=5865F2)](https://discord.gg/8FHGGkgunk)
+
