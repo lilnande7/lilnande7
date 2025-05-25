@@ -1,16 +1,16 @@
-## Hi there 👋
+## Whats Up Homie?!
+Welcome to my GitHub
 
-<!--
-**lilnande7/lilnande7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here's something about me :
 
-Here are some ideas to get you started:
+- 🎓 Currently studying **Informatics Engineering** at **Esa Unggul University**
+- 💻 Interested in **Web Development**, **Data Analytics**.
+- 🌱 Currently learning **JavaScript**, and **HTML**.
+- 📚 Always eager to learn and grow in the field of technology
+- 📫 Reach me at: [fernandaz3325@gmail.com]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+https://github-readme-stats.vercel.app/api?username=lilnande7&show_icons=true&theme=tokyonight
+
+### 🌐 Connect with Me
+[![Instagram](https://img.shields.io/badge/-Instagram-333333?style=flat&logo=instagram)](https://www.instagram.com/f.adnan07/)
