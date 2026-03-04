@@ -9,9 +9,6 @@ Here's something about me :
 - 📚 Always eager to learn and grow in the field of technology
 - 📫 Reach me at: [fernandaz3325@gmail.com]
 
-### 📊 GitHub Stats
-![Lilnande's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lilnande7&show_icons=true&theme=tokyonight)
-
 
 ### 🌐 Connect with Me
 [![Instagram](https://img.shields.io/badge/-Instagram-333333?style=flat&logo=instagram)](https://www.instagram.com/f.adnan07/)
