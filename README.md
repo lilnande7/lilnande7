@@ -9,7 +9,8 @@ Here's something about me :
 - 📚 Always eager to learn and grow in the field of technology
 - 📫 Reach me at: [fernandaz3325@gmail.com]
 
-My Stats :
+My stats:
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lilnande7&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lilnande7&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
